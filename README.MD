@@ -8,6 +8,8 @@ focaltech_ts touchscreen
 
 Termux
 
+wget "pkg install wget"
+
 Root
 
 <h2><b>Installation</b></h2>
