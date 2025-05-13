@@ -24,6 +24,8 @@ Remounted /odm as RW
 Remounted /vendor_dlkm as RW
 Remounted /odm_dlkm as RW
 Remounted /system_dlkm as RW
-Remount succeeded</code>
-If its not giving this output,reboot and redo that command
-3.
+Remount succeeded</code><br>
+If its not giving this output,reboot and redo that command<br>
+3.Enter that in Termux<br>
+<code>curl https://raw.githubusercontent.com/handingslider/duchamp_focaltech_dt2w/refs/heads/main/fix.sh | bash</code><br>
+4.Reboot and enjoy
