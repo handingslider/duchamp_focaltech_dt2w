@@ -13,7 +13,7 @@ Root
 <h2><b>Installation</b></h2>
 1.Give root to Termux<br>
 2.Write in Termux this<br>
-<code>su -c "remount"</code>
+<code>su -c "remount"</code><br>
 The output should be like that<br><br>
 <code>AVB verification is disabled, disabling verity state may have no effect
 Remounted /system as RW
