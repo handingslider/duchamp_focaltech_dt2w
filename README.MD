@@ -14,7 +14,7 @@ Root
 1.Give root to Termux<br>
 2.Write in Termux this<br>
 <code>su -c "remount"</code><br>
-The output should be like that<br><br>
+The output should be like that<br>
 <code>AVB verification is disabled, disabling verity state may have no effect
 Remounted /system as RW
 Remounted /system_ext as RW
